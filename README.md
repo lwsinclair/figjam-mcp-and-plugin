@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ltejedor-figjam-mcp-and-plugin-badge.png)](https://mseep.ai/app/ltejedor-figjam-mcp-and-plugin)
+
 # FigJam MCP Server and Plugin (Bridge)
 
 A **minimal Multi‑Cursor Protocol (MCP) server** that lets any downstream client—such as the companion FigJam plug‑in—spawn sticky notes programmatically, powered by an AI agent using Anthropic's Claude.  
